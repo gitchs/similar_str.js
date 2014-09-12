@@ -1,0 +1,15 @@
+{
+  "name": "similar-str",
+  "version": "0.0.0",
+  "description": "Compute similarity of two string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "string",
+    "similiar"
+  ],
+  "author": "Leon (tinyproxy@gmail.com)",
+  "license": "MIT"
+}
