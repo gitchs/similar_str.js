@@ -1,6 +1,6 @@
 {
   "name": "similar-str",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Compute similarity of two string",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,9 @@
     "similiar"
   ],
   "author": "Leon (tinyproxy@gmail.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gitchs/similar_str.js.git"
+  }
 }
