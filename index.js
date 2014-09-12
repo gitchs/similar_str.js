@@ -1,1 +1,1 @@
-module.exports = require('./build/Release/similar_str.node').similar_str;
+module.exports = require('./build/Release/similar-str.node').similarStr;

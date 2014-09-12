@@ -34,7 +34,7 @@ Handle<Value> Method(const Arguments& args) {
 }
 
 void init(Handle<Object> exports) {
-  exports->Set(String::NewSymbol("similar_str"),
+  exports->Set(String::NewSymbol("similarStr"),
       FunctionTemplate::New(Method)->GetFunction());
 }
 

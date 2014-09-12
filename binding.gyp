@@ -1,7 +1,7 @@
 {
   "targets": [
     {
-      "target_name": "similar_str",
+      "target_name": "similar-str",
       "sources": [ "similar_str.cc" ]
     }
   ]

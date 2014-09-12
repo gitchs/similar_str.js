@@ -8,9 +8,9 @@ Port PHP's [similar_str](https://github.com/php/php-src/blob/2b133e9149eca862c7d
 #Example
 
 ```javascript
-var similar_str = require('./similar_str');
-similar_str('123','123'); //100
-similar_str('123','1234'); //85.71428571428571
-similar_str('hello','hello world'); //62.5
+var similarStr = require('./similar-str');
+similarStr('123','123'); //100
+similarStr('123','1234'); //85.71428571428571
+similarStr('hello','hello world'); //62.5
 
 ```
